@@ -1,0 +1,25 @@
+e, ð, ö, ø, ì are just the known constants, treat them like digits
+
+x is the unknown variable, treat it like digits
+
+sinx, cosx, tanx, cotx, asinx, acosx, atanx, acotx, sqrtx, log__2 x, lnx,  you first press the
+function key and then the digits
+
+x squared, x factorial, you first press the digits and then the function
+
+log__y x, yrootx, x raised to the y, you first press the y digits, then the function and then
+the x digits
+
+if you get any error, press the clear button and continue
+
+Examples:
+e * 2 = 5.43656
+
+x^2 can be graphed
+
+sin1 = 0.84147
+
+5! = 120
+
+5 root 32768 = 8
+
