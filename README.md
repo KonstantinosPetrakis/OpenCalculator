@@ -16,6 +16,6 @@ OpenCalculator is small project which allows you to do mathematical calculations
 <br>
 ![Screenshot1](/readme and screenshots images/screenshot1.jpg)
 <br>
-![Screenshot2](/readme and screenshots images/screenshot2.jpg)
+![Screenshot2](/readme and screenshots images/screenshot1.jpg)
 
 ## Known bugs
