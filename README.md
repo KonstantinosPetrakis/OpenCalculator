@@ -24,3 +24,12 @@ OpenCalculator is small project which allows you to do mathematical calculations
 ![Screenshot2](/wiki_files/screenshot2.jpg)
 
 ## Known bugs
+
+Graph of f = 0, causes an error.
+
+Graph of tanx, or any polynomial function has nothing to do with the regular graphs of other computer programs, because this program condiders
+the boundaries of the the y axis the [-max |f|, max |f|] as  x belongs to [-12 * zoom, 12 * zoom].
+So, any difference in small values is not shown in the GUI presentation, for example the graph of any polynomial will be almost equal to
+the graph of its biggest term, so plot(x^3+x^2+1) ≈ plot(x^3).
+
+I am currentlly working on a fix for this, that means I have to change the whole xy-axis values and zoom function dramatically. 
