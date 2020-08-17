@@ -11,6 +11,7 @@ If you go with calculator.py option, pygame and re have to be installed to your 
 
 ## Usage
 OpenCalculator is small project which allows you to do mathematical calculations and plot a function in the x-y plane.
+
 _Screenshots_
 ![Screenshot1](screenshot1.jpg)
 ![Screenshot2](screenshot2.jpg)
