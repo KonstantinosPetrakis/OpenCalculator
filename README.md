@@ -12,8 +12,7 @@ OpenCalculator is an open source calculator and plotter, created by me using Pyt
 If you go with calculator.py option, pygame and re have to be installed to your computer. Both of them are cross-platform. 
 
 
-Furtheremore, before reading the source code I defintely suggest checking out the wiki's "GUI Explaination" 
-page right [here](https://github.com/KonstantinosPetrakis/OpenCalculator/wiki/GUI-explanation
+Furtheremore, before reading the source code I defintely suggest checking out the wiki's "GUI Explaination" page right [here](https://github.com/KonstantinosPetrakis/OpenCalculator/wiki/GUI-explanation)
 
 ## Usage
 OpenCalculator is small project which allows you to do mathematical calculations and plot a function in the x-y plane. 
