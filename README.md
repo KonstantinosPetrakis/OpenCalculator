@@ -13,7 +13,7 @@ If you go with calculator.py option, pygame and re have to be installed to your 
 
 
 Furtheremore, before reading the source code I defintely suggest checking out the wiki's "GUI Explaination" page
-right [here.](https://github.com/KonstantinosPetrakis/OpenCalculator/wiki/GUI-explanation
+right [here](https://github.com/KonstantinosPetrakis/OpenCalculator/wiki/GUI-explanation
 
 ## Usage
 OpenCalculator is small project which allows you to do mathematical calculations and plot a function in the x-y plane. 
