@@ -1,7 +1,7 @@
 # OpenCalculator
 
 ## Description
-OpenCalculator is an open source calculator and plotter, created by me using Python, Pygame, re and math.
+OpenCalculator is an open source calculator and plotter, created by me using Python and Pygame, re and math libraries.
 
 ## Installation
 1. Download the whole "images" folder and "help.txt" and place it in a directory.
